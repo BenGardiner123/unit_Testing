@@ -29,6 +29,16 @@ namespace Tests
             Assert.Equal(expected, p1.calcAge());
         }
 
+        [Fact]
+        public void GetAge_ExceptionTest()
+        {
+           Person p1 = new Person();
+            p1.Name = "Big Bob";
+            p1.YearofBirth = 1899;
+            
+            Assert.Throws<Exception>(() => p1.calcAge());
+        }
+
 
     }
 }

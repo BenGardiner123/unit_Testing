@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\unit_Testing\carLib\bin\Debug\netstandard2.0\carLib.deps.json
+C:\Users\User\Desktop\unit_Testing\carLib\bin\Debug\netstandard2.0\carLib.dll
+C:\Users\User\Desktop\unit_Testing\carLib\bin\Debug\netstandard2.0\carLib.pdb
+C:\Users\User\Desktop\unit_Testing\carLib\obj\Debug\netstandard2.0\carLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\unit_Testing\carLib\obj\Debug\netstandard2.0\carLib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\unit_Testing\carLib\obj\Debug\netstandard2.0\carLib.AssemblyInfo.cs
+C:\Users\User\Desktop\unit_Testing\carLib\obj\Debug\netstandard2.0\carLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\unit_Testing\carLib\obj\Debug\netstandard2.0\carLib.dll
+C:\Users\User\Desktop\unit_Testing\carLib\obj\Debug\netstandard2.0\carLib.pdb

@@ -2,7 +2,7 @@
 
 namespace carLib
 {
-    public class Class1
+    public class Car
     {
         public int Wheels;
         public string Colour;
